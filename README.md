@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zilani Khan
 - 👀 I’m really interested in Technology.
-- 🌱 I’m currently Computer Science Student
-- 💞️ I’m looking to collaborate
-- Looking for New Job and collab for real-world Projects.
+- 🌱 I’m currently a Computer Science Student
+- 💞️ I’m looking to collaborate with Real-World Projects.
+- Looking for New Job.
 - 📫 Reach me zilanikhan7020@gmail.com
